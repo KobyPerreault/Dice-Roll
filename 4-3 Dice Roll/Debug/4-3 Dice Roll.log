@@ -1,0 +1,3 @@
+﻿  4-3 Dice Roll.cpp
+C:\Users\train\Documents\SNHU\IT 312\4-3 Dice Roll\4-3 Dice Roll.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  4-3 Dice Roll.vcxproj -> C:\Users\train\Documents\SNHU\IT 312\4-3 Dice Roll\Debug\4-3 Dice Roll.exe
